@@ -13,3 +13,7 @@ Os projetos aqui têm como foco:
 - Desenvolver métodos e organizar o código de forma eficiente.
 - Implementar conceitos básicos de Programação Orientada a Objetos (POO).
 
+## ✍️ Documentação dos Estudos
+Estou documentando todo o meu progresso, conceitos aprendidos e anotações no meu Notion. Acompanhe minha evolução e veja detalhes sobre cada tópico:
+
+🔗 [Meu Notion - Estudos de C#](https://www.notion.so/Fundamentos-do-C-14f7ddff496a807a97a2ed21c3bb6af7)

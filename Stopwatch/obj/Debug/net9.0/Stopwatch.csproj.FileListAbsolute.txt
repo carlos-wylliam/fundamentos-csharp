@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\Stopwatch\bin\Debug\net9.0\Stopwatch.exe
+D:\projetos\Fundamentos-Do-C#\Stopwatch\bin\Debug\net9.0\Stopwatch.deps.json
+D:\projetos\Fundamentos-Do-C#\Stopwatch\bin\Debug\net9.0\Stopwatch.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\Stopwatch\bin\Debug\net9.0\Stopwatch.dll
+D:\projetos\Fundamentos-Do-C#\Stopwatch\bin\Debug\net9.0\Stopwatch.pdb
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.dll
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\refint\Stopwatch.dll
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.pdb
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\Stopwatch.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\Stopwatch\obj\Debug\net9.0\ref\Stopwatch.dll

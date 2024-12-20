@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\TextEditor\bin\Debug\net9.0\TextEditor.exe
+D:\projetos\Fundamentos-Do-C#\TextEditor\bin\Debug\net9.0\TextEditor.deps.json
+D:\projetos\Fundamentos-Do-C#\TextEditor\bin\Debug\net9.0\TextEditor.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\TextEditor\bin\Debug\net9.0\TextEditor.dll
+D:\projetos\Fundamentos-Do-C#\TextEditor\bin\Debug\net9.0\TextEditor.pdb
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.dll
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\refint\TextEditor.dll
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.pdb
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll

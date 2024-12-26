@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\EditorHtml\bin\Debug\net9.0\EditorHtml.exe
+D:\projetos\Fundamentos-Do-C#\EditorHtml\bin\Debug\net9.0\EditorHtml.deps.json
+D:\projetos\Fundamentos-Do-C#\EditorHtml\bin\Debug\net9.0\EditorHtml.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\EditorHtml\bin\Debug\net9.0\EditorHtml.dll
+D:\projetos\Fundamentos-Do-C#\EditorHtml\bin\Debug\net9.0\EditorHtml.pdb
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.dll
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\refint\EditorHtml.dll
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.pdb
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\EditorHtml.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\EditorHtml\obj\Debug\net9.0\ref\EditorHtml.dll

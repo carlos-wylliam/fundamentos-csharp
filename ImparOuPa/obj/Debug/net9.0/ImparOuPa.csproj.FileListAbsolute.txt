@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\bin\Debug\net9.0\ImparOuPa.exe
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\bin\Debug\net9.0\ImparOuPa.deps.json
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\bin\Debug\net9.0\ImparOuPa.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\bin\Debug\net9.0\ImparOuPa.dll
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\bin\Debug\net9.0\ImparOuPa.pdb
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.dll
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\refint\ImparOuPa.dll
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.pdb
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ImparOuPa.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\ImparOuPa\obj\Debug\net9.0\ref\ImparOuPa.dll

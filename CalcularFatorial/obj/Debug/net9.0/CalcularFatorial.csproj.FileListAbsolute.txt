@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\bin\Debug\net9.0\CalcularFatorial.exe
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\bin\Debug\net9.0\CalcularFatorial.deps.json
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\bin\Debug\net9.0\CalcularFatorial.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\bin\Debug\net9.0\CalcularFatorial.dll
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\bin\Debug\net9.0\CalcularFatorial.pdb
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.dll
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\refint\CalcularFatorial.dll
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.pdb
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\CalcularFatorial.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\CalcularFatorial\obj\Debug\net9.0\ref\CalcularFatorial.dll

@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\bin\Debug\net9.0\ClasseCarro.exe
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\bin\Debug\net9.0\ClasseCarro.deps.json
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\bin\Debug\net9.0\ClasseCarro.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\bin\Debug\net9.0\ClasseCarro.dll
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\bin\Debug\net9.0\ClasseCarro.pdb
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.dll
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\refint\ClasseCarro.dll
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.pdb
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ClasseCarro.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\ClasseCarro\obj\Debug\net9.0\ref\ClasseCarro.dll

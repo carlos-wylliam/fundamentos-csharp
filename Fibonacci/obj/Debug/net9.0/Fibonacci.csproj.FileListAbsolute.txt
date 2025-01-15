@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\Fibonacci\bin\Debug\net9.0\Fibonacci.exe
+D:\projetos\Fundamentos-Do-C#\Fibonacci\bin\Debug\net9.0\Fibonacci.deps.json
+D:\projetos\Fundamentos-Do-C#\Fibonacci\bin\Debug\net9.0\Fibonacci.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\Fibonacci\bin\Debug\net9.0\Fibonacci.dll
+D:\projetos\Fundamentos-Do-C#\Fibonacci\bin\Debug\net9.0\Fibonacci.pdb
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.dll
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\refint\Fibonacci.dll
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.pdb
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\Fibonacci.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\Fibonacci\obj\Debug\net9.0\ref\Fibonacci.dll

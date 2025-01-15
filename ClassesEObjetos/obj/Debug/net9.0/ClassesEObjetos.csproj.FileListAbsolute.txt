@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\bin\Debug\net9.0\ClassesEObjetos.exe
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\bin\Debug\net9.0\ClassesEObjetos.deps.json
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\bin\Debug\net9.0\ClassesEObjetos.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\bin\Debug\net9.0\ClassesEObjetos.dll
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\bin\Debug\net9.0\ClassesEObjetos.pdb
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.dll
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\refint\ClassesEObjetos.dll
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.pdb
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\ClassesEObjetos\obj\Debug\net9.0\ref\ClassesEObjetos.dll

@@ -2,7 +2,7 @@
 
 namespace ClassesEObjetos
 {
-    class Program
+    class PessoaProgram
     {
         public class Pessoa
         {

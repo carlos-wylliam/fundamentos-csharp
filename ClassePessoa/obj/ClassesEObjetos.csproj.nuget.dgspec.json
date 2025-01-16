@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos\\Fundamentos-Do-C#\\ClassesEObjetos\\ClassesEObjetos.csproj": {}
+    "D:\\projetos\\Fundamentos-Do-C#\\ClassePessoa\\ClassesEObjetos.csproj": {}
   },
   "projects": {
-    "D:\\projetos\\Fundamentos-Do-C#\\ClassesEObjetos\\ClassesEObjetos.csproj": {
+    "D:\\projetos\\Fundamentos-Do-C#\\ClassePessoa\\ClassesEObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos\\Fundamentos-Do-C#\\ClassesEObjetos\\ClassesEObjetos.csproj",
+        "projectUniqueName": "D:\\projetos\\Fundamentos-Do-C#\\ClassePessoa\\ClassesEObjetos.csproj",
         "projectName": "ClassesEObjetos",
-        "projectPath": "D:\\projetos\\Fundamentos-Do-C#\\ClassesEObjetos\\ClassesEObjetos.csproj",
+        "projectPath": "D:\\projetos\\Fundamentos-Do-C#\\ClassePessoa\\ClassesEObjetos.csproj",
         "packagesPath": "C:\\Users\\wylliam\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos\\Fundamentos-Do-C#\\ClassesEObjetos\\obj\\",
+        "outputPath": "D:\\projetos\\Fundamentos-Do-C#\\ClassePessoa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wylliam\\AppData\\Roaming\\NuGet\\NuGet.Config"

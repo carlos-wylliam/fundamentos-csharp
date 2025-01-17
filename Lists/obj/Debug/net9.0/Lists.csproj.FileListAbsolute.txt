@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\Lists\bin\Debug\net9.0\Lists.exe
+D:\projetos\Fundamentos-Do-C#\Lists\bin\Debug\net9.0\Lists.deps.json
+D:\projetos\Fundamentos-Do-C#\Lists\bin\Debug\net9.0\Lists.runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\Lists\bin\Debug\net9.0\Lists.dll
+D:\projetos\Fundamentos-Do-C#\Lists\bin\Debug\net9.0\Lists.pdb
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.sourcelink.json
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.dll
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\refint\Lists.dll
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.pdb
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\Lists.genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\Lists\obj\Debug\net9.0\ref\Lists.dll

@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\bin\Debug\net9.0\System.IO ( diretorios e arquivos ).exe
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\bin\Debug\net9.0\System.IO ( diretorios e arquivos ).deps.json
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\bin\Debug\net9.0\System.IO ( diretorios e arquivos ).runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\bin\Debug\net9.0\System.IO ( diretorios e arquivos ).dll
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\bin\Debug\net9.0\System.IO ( diretorios e arquivos ).pdb
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).sourcelink.json
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).dll
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\refint\System.IO ( diretorios e arquivos ).dll
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).pdb
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\System.IO ( diretorios e arquivos ).genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\System.IO ( diretorios e arquivos )\obj\Debug\net9.0\ref\System.IO ( diretorios e arquivos ).dll

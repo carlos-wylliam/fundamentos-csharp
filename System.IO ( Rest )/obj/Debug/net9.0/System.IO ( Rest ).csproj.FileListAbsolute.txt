@@ -1,0 +1,15 @@
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\bin\Debug\net9.0\System.IO ( Rest ).exe
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\bin\Debug\net9.0\System.IO ( Rest ).deps.json
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\bin\Debug\net9.0\System.IO ( Rest ).runtimeconfig.json
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\bin\Debug\net9.0\System.IO ( Rest ).dll
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\bin\Debug\net9.0\System.IO ( Rest ).pdb
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).AssemblyInfoInputs.cache
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).AssemblyInfo.cs
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).csproj.CoreCompileInputs.cache
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).sourcelink.json
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).dll
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\refint\System.IO ( Rest ).dll
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).pdb
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\System.IO ( Rest ).genruntimeconfig.cache
+D:\projetos\Fundamentos-Do-C#\System.IO ( Rest )\obj\Debug\net9.0\ref\System.IO ( Rest ).dll

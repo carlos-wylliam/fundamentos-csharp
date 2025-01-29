@@ -25,7 +25,7 @@ class Program
     // Função para inserir produtos
     static void InserirProdutos(string connectionString)
     {
-        using (SQLiteConnection connection = new SQLiteConnection(connectionString))
+       using (SQLiteConnection connection = new SQLiteConnection(connectionString))
         {
             connection.Open();
             string query = "INSERT INTO Produtos (Nome, Preco) VALUES (@Nome, @Preco)";

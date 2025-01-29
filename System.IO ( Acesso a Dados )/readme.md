@@ -29,3 +29,22 @@ VALUES
 ```hash
     dotnet add package System.Data.SQLite
 ````
+
+# Anotações sobre o código
+## Using
+O using é utilizado para garantir que objetos que implementam a interface IDisposable sejam corretamente fechados/liberados após o uso. No caso do SQlite, isso significa que a conexão com o banco de dados será fechada automaticamente quando o bloco using terminar.
+
+## O que é SQLiteConnection?
+SQLiteConnection é uma classe do proprio SQLite que representa uma conexão com o banco de dados.
+### Como funciona?
+- Quando você cria uma instância de SQLiteConnection, está preparando uma conexão com o banco
+- Você precisa passar a string de conexão como argumento (exemplo: "Data Source=ProdutosDB.db").
+- Para de fato conectar ao banco, você chama connection.Open().
+
+## O que faz command.ExecuteNonQuery()?
+O método ExecuteNonQuery() executa comandos SQL que não retornam resultados ( como INSERT, UPDATE, DELETE, e CREATE TABLE).
+
+## O que é SQLiteDataReader e ExecuteReader()?
+SQLiteDataReader é uma classe usada para ler os resultados de consultas SELECT.
+### Como funciona ExcuteReader()?
+O método ExecuteReader() executa uma consulta SELECT e retorna um objeto SQLiteDataReader, que pode ser usado para percorrer os resultados linha por linha.
